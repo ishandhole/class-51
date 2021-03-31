@@ -1,0 +1,29 @@
+       h1{color:black;}
+            *{
+                border-color: rgb(0,0,0);
+            }
+            .header{
+                background-color: gold;
+                display: flex;
+                justify-content: space-evenly;
+            }
+            .menu{
+                background-color: #d66ed6
+            }
+            .main{
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: space-evenly;
+
+            }
+            .first{
+                border: solid;
+            }
+            .footer{
+                border: solid ;
+                display: flex;
+                justify-content:flex-end;
+            }
+            p{
+                text-align: right;
+            }
